@@ -1,0 +1,23 @@
+{
+  "name": "cli-poo-thp",
+  "version": "1.0.0",
+  "author": "Beygs",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "cli-table3": "^0.6.3",
+    "color-convert": "^2.0.1",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^9.0.0"
+  }
+}
