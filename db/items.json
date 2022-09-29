@@ -1,6 +1,5 @@
 [
   {
-    "type": "other",
     "id": 1,
     "name": "Sleek Granite Bench",
     "price": "$48.99",
@@ -8,10 +7,11 @@
     "brand": "Nike",
     "description": "Messenger bag beard artisan whatever pabst scenester sustainable. Neutra yuccie goth locavore lo-fi truffaut knausgaard ennui. Ramps 90's ethical. Pbr&b keytar distillery chambray.",
     "size": "",
-    "color": "emerald"
+    "type": "other",
+    "color": "emerald",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 2,
     "name": "Ergonomic Copper Lamp",
     "price": "$86.99",
@@ -19,21 +19,23 @@
     "brand": "Nikon",
     "description": "Ennui ramps chambray swag viral try-hard. Tattooed everyday 3 wolf moon goth flexitarian tousled church-key. Drinking put a bird on it hashtag fashion axe.",
     "size": "",
-    "color": "peach"
+    "type": "other",
+    "color": "peach",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 3,
     "name": "Aerodynamic Cotton Coat",
     "price": "$54.99",
-    "quantity": 4,
+    "quantity": 8,
     "brand": "Beats",
     "description": "Biodiesel salvia freegan mustache five dollar toast meditation. Viral 8-bit brunch. Tousled offal retro. Raw denim next level thundercats shabby chic leggings humblebrag.",
     "size": "",
-    "color": "lavender"
+    "type": "other",
+    "color": "lavender",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 4,
     "name": "Enormous Linen Lamp",
     "price": "$95.99",
@@ -41,10 +43,11 @@
     "brand": "Nike",
     "description": "Blog farm-to-table normcore vice disrupt shabby chic ennui umami. Cornhole venmo taxidermy mlkshk diy. Brunch venmo cray poutine kombucha scenester carry. Marfa migas leggings pug listicle.",
     "size": "",
-    "color": "sapphire"
+    "type": "other",
+    "color": "sapphire",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 5,
     "name": "Practical Cotton Pants",
     "price": "$77.99",
@@ -52,10 +55,11 @@
     "brand": "Nikon",
     "description": "Cray vinyl goth photo booth diy paleo organic. Mixtape kinfolk pbr&b lomo plaid craft beer.",
     "size": "",
-    "color": "tan"
+    "type": "other",
+    "color": "tan",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 6,
     "name": "Enormous Bronze Gloves",
     "price": "$50.99",
@@ -63,10 +67,11 @@
     "brand": "Beats",
     "description": "Before they sold out keffiyeh wayfarers put a bird on it. Wes anderson chillwave swag taxidermy try-hard pabst. Helvetica gentrify lo-fi gluten-free brunch craft beer photo booth.",
     "size": "",
-    "color": "violet"
+    "type": "other",
+    "color": "violet",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 7,
     "name": "Ergonomic Leather Lamp",
     "price": "$95.99",
@@ -74,10 +79,11 @@
     "brand": "Adidas",
     "description": "Twee artisan everyday flexitarian keffiyeh. Banjo hoodie bushwick master readymade asymmetrical try-hard tousled. Etsy art party roof knausgaard yuccie neutra.",
     "size": "",
-    "color": "sangria"
+    "type": "other",
+    "color": "sangria",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 8,
     "name": "Aerodynamic Plastic Bottle",
     "price": "$44.99",
@@ -85,10 +91,11 @@
     "brand": "Dell",
     "description": "Mustache wayfarers 8-bit intelligentsia +1 phlogiston. Drinking xoxo fingerstache slow-carb. Dreamcatcher chartreuse ugh. Xoxo try-hard wolf.",
     "size": "",
-    "color": "azure"
+    "type": "other",
+    "color": "azure",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 9,
     "name": "Practical Concrete Lamp",
     "price": "$29.99",
@@ -96,10 +103,11 @@
     "brand": "Dell",
     "description": "Fingerstache try-hard meggings five dollar toast yuccie. Shabby chic kinfolk bushwick. Knausgaard organic polaroid flannel schlitz fashion axe pop-up.",
     "size": "",
-    "color": "azure"
+    "type": "other",
+    "color": "azure",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 10,
     "name": "Rustic Linen Bottle",
     "price": "$22.99",
@@ -107,10 +115,11 @@
     "brand": "Apple",
     "description": "Keffiyeh hammock hashtag. Plaid artisan vinyl readymade typewriter polaroid. Squid whatever locavore tote bag crucifix.",
     "size": "",
-    "color": "amber"
+    "type": "other",
+    "color": "amber",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 11,
     "name": "Enormous Bronze Shirt",
     "price": "$28.99",
@@ -118,10 +127,11 @@
     "brand": "Nike",
     "description": "Intelligentsia ugh slow-carb. Trust fund poutine franzen. Keffiyeh semiotics chia wes anderson yolo. Butcher mixtape organic brooklyn +1 lo-fi health vegan.",
     "size": "",
-    "color": "carmine"
+    "type": "other",
+    "color": "carmine",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 12,
     "name": "Enormous Copper Clock",
     "price": "$57.99",
@@ -129,10 +139,11 @@
     "brand": "Beats",
     "description": "Lo-fi authentic letterpress everyday literally lumbersexual. Narwhal roof deep v freegan marfa drinking organic.",
     "size": "",
-    "color": "turquoise"
+    "type": "other",
+    "color": "turquoise",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 13,
     "name": "Small Marble Keyboard",
     "price": "$4.99",
@@ -140,10 +151,11 @@
     "brand": "Apple",
     "description": "Flexitarian schlitz readymade lumbersexual yuccie ugh gluten-free phlogiston. Pitchfork ethical hammock chillwave cold-pressed fingerstache. Craft beer fashion axe meditation raw denim asymmetrical mustache heirloom. Franzen raw denim chartreuse flexitarian irony cred venmo celiac.",
     "size": "",
-    "color": "bronze"
+    "type": "other",
+    "color": "bronze",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 14,
     "name": "Incredible Copper Lamp",
     "price": "$89.99",
@@ -151,10 +163,11 @@
     "brand": "LG",
     "description": "Banh mi ramps wayfarers forage brunch fanny pack bushwick. Deep v banh mi carry.",
     "size": "",
-    "color": "purple"
+    "type": "other",
+    "color": "purple",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 15,
     "name": "Lightweight Bronze Wallet",
     "price": "$94.99",
@@ -162,10 +175,11 @@
     "brand": "LG",
     "description": "Mustache retro selfies 90's hoodie. Kickstarter salvia celiac. Chia cardigan gluten-free. Thundercats williamsburg fashion axe echo farm-to-table.",
     "size": "",
-    "color": "peach"
+    "type": "other",
+    "color": "peach",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 16,
     "name": "Lightweight Leather Chair",
     "price": "$98.99",
@@ -173,10 +187,11 @@
     "brand": "Beats",
     "description": "Taxidermy waistcoat five dollar toast helvetica truffaut before they sold out chillwave roof. Small batch celiac forage selvage hashtag portland. Schlitz +1 cred everyday normcore helvetica. Art party narwhal letterpress put a bird on it.",
     "size": "",
-    "color": "raspberry"
+    "type": "other",
+    "color": "raspberry",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 17,
     "name": "Synergistic Granite Hat",
     "price": "$45.99",
@@ -184,10 +199,11 @@
     "brand": "Beats",
     "description": "Readymade you probably haven't heard of them ugh roof vegan freegan pork belly vice. Twee 3 wolf moon cronut umami biodiesel. Echo fingerstache ugh pug diy poutine kombucha typewriter.",
     "size": "",
-    "color": "copper"
+    "type": "other",
+    "color": "copper",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 18,
     "name": "Aerodynamic Wool Watch",
     "price": "$19.99",
@@ -195,10 +211,11 @@
     "brand": "Apple",
     "description": "Marfa ugh wes anderson gastropub chillwave semiotics pinterest disrupt. Diy roof try-hard listicle blue bottle.",
     "size": "",
-    "color": "yellow"
+    "type": "other",
+    "color": "yellow",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 19,
     "name": "Synergistic Concrete Watch",
     "price": "$71.99",
@@ -206,10 +223,11 @@
     "brand": "Adidas",
     "description": "You probably haven't heard of them messenger bag godard yr disrupt. Readymade deep v food truck. Waistcoat vinegar umami pour-over. Freegan selvage farm-to-table pbr&b forage typewriter.",
     "size": "",
-    "color": "burgundy"
+    "type": "other",
+    "color": "burgundy",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 20,
     "name": "Awesome Wool Bench",
     "price": "$41.99",
@@ -217,10 +235,11 @@
     "brand": "GoPro",
     "description": "Venmo banh mi five dollar toast diy pinterest. Cornhole pinterest pickled skateboard meditation viral. Biodiesel drinking street fanny pack beard.",
     "size": "",
-    "color": "tan"
+    "type": "other",
+    "color": "tan",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 21,
     "name": "Rustic Granite Table",
     "price": "$46.99",
@@ -228,10 +247,11 @@
     "brand": "Sony",
     "description": "Taxidermy food truck hashtag leggings viral occupy direct trade. Tousled godard lumbersexual master gluten-free cardigan. Cray loko pug typewriter park sriracha thundercats trust fund.",
     "size": "",
-    "color": "salmon"
+    "type": "other",
+    "color": "salmon",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 22,
     "name": "Fantastic Wool Coat",
     "price": "$27.99",
@@ -239,10 +259,11 @@
     "brand": "Sony",
     "description": "Blog locavore cleanse diy tote bag. Mlkshk wes anderson beard. Literally listicle beard meh.",
     "size": "",
-    "color": "orange"
+    "type": "other",
+    "color": "orange",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 23,
     "name": "Enormous Cotton Gloves",
     "price": "$8.99",
@@ -250,10 +271,11 @@
     "brand": "Nikon",
     "description": "Cliche kombucha banh mi bicycle rights twee muggle magic. Ethical yolo farm-to-table cronut tousled five dollar toast migas.",
     "size": "",
-    "color": "ultramarine"
+    "type": "other",
+    "color": "ultramarine",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 24,
     "name": "Aerodynamic Bronze Gloves",
     "price": "$61.99",
@@ -261,10 +283,11 @@
     "brand": "Adidas",
     "description": "Narwhal 8-bit pug heirloom single-origin coffee before they sold out. Portland umami hammock. Bespoke williamsburg meggings squid. Vinyl readymade wayfarers.",
     "size": "",
-    "color": "fuchsia"
+    "type": "other",
+    "color": "fuchsia",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 25,
     "name": "Incredible Paper Computer",
     "price": "$51.99",
@@ -272,10 +295,11 @@
     "brand": "Apple",
     "description": "3 wolf moon echo food truck. Gluten-free ramps lumbersexual goth. Phlogiston ugh xoxo letterpress kinfolk direct trade. Stumptown narwhal cardigan.",
     "size": "",
-    "color": "burgundy"
+    "type": "other",
+    "color": "burgundy",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 26,
     "name": "Aerodynamic Linen Lamp",
     "price": "$16.99",
@@ -283,10 +307,11 @@
     "brand": "Samsung",
     "description": "Paleo brooklyn church-key. Lomo selfies semiotics. Fashion axe tattooed meggings goth. Goth tofu truffaut muggle magic pop-up cliche.",
     "size": "",
-    "color": "amaranth"
+    "type": "other",
+    "color": "amaranth",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 27,
     "name": "Heavy Duty Silk Bottle",
     "price": "$9.99",
@@ -294,10 +319,11 @@
     "brand": "Nikon",
     "description": "Iphone dreamcatcher fingerstache. Typewriter vinyl chartreuse dreamcatcher vhs swag.",
     "size": "",
-    "color": "purple"
+    "type": "other",
+    "color": "purple",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 28,
     "name": "Incredible Bronze Clock",
     "price": "$77.99",
@@ -305,10 +331,11 @@
     "brand": "Nikon",
     "description": "Pug microdosing biodiesel distillery. Readymade pug selfies art party keffiyeh. Blue bottle cronut hashtag church-key flexitarian artisan flannel cardigan. Heirloom helvetica roof taxidermy tumblr health cardigan.",
     "size": "",
-    "color": "pear"
+    "type": "other",
+    "color": "pear",
+    "storage": ""
   },
   {
-    "type": "other",
     "id": 29,
     "name": "Heavy Duty Linen Knife",
     "price": "$63.99",
@@ -316,10 +343,11 @@
     "brand": "Samsung",
     "description": "Banh mi fashion axe vhs pickled cred neutra. Single-origin coffee tilde pbr&b leggings hella chartreuse helvetica.",
     "size": "",
-    "color": "indigo"
+    "type": "other",
+    "color": "indigo",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 30,
     "name": "Sneakers",
     "price": "$20.99",
@@ -327,10 +355,11 @@
     "brand": "Nike",
     "description": "Phlogiston fashion axe yuccie. Echo swag kombucha brooklyn.",
     "size": 41,
-    "color": "coffee"
+    "type": "shoe",
+    "color": "coffee",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 31,
     "name": "Chelsea Boots",
     "price": "$30.99",
@@ -338,10 +367,11 @@
     "brand": "Adidas",
     "description": "Artisan deep v chillwave twee raw denim. Skateboard letterpress try-hard truffaut goth typewriter humblebrag messenger bag.",
     "size": 40,
-    "color": "ochre"
+    "type": "shoe",
+    "color": "ochre",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 32,
     "name": "Military Boots",
     "price": "$25.99",
@@ -349,10 +379,11 @@
     "brand": "Adidas",
     "description": "Pop-up helvetica chicharrones pickled. Fixie ennui dreamcatcher. Lo-fi cornhole 8-bit leggings occupy.",
     "size": 42,
-    "color": "burgundy"
+    "type": "shoe",
+    "color": "burgundy",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 33,
     "name": "Stiletto",
     "price": "$50.99",
@@ -360,10 +391,11 @@
     "brand": "H&M",
     "description": "Put a bird on it lumbersexual you probably haven't heard of them listicle wolf +1 yolo cornhole. Kinfolk waistcoat viral typewriter truffaut selfies park pop-up.",
     "size": 39,
-    "color": "gray"
+    "type": "shoe",
+    "color": "gray",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 34,
     "name": "Moccasin",
     "price": "$64.99",
@@ -371,10 +403,11 @@
     "brand": "Louis Vuitton",
     "description": "Hashtag waistcoat echo sustainable truffaut vegan. Shoreditch pabst hammock knausgaard hella. Green juice humblebrag church-key skateboard meggings butcher chartreuse before they sold out. Everyday roof chartreuse meditation polaroid chia etsy locavore.",
     "size": 44,
-    "color": "lime"
+    "type": "shoe",
+    "color": "lime",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 35,
     "name": "Ballerina",
     "price": "$29.99",
@@ -382,10 +415,11 @@
     "brand": "H&M",
     "description": "Poutine cred direct trade street pbr&b leggings kombucha. Pitchfork photo booth sustainable sartorial locavore. Blue bottle typewriter chambray distillery heirloom whatever.",
     "size": 44,
-    "color": "carmine"
+    "type": "shoe",
+    "color": "carmine",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 36,
     "name": "Ankle boots",
     "price": "$52.99",
@@ -393,10 +427,11 @@
     "brand": "Uniqlo",
     "description": "Brunch mustache venmo diy pinterest. Kinfolk roof cray food truck leggings synth next level.",
     "size": 45,
-    "color": "sapphire"
+    "type": "shoe",
+    "color": "sapphire",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 37,
     "name": "Flip-Flop",
     "price": "$70.99",
@@ -404,10 +439,11 @@
     "brand": "Nike",
     "description": "Salvia cold-pressed truffaut blog biodiesel bushwick. Flexitarian freegan knausgaard meditation fixie 90's authentic. Five dollar toast hammock butcher. Flexitarian health sriracha.",
     "size": 40,
-    "color": "taupe"
+    "type": "shoe",
+    "color": "taupe",
+    "storage": ""
   },
   {
-    "type": "shoe",
     "id": 38,
     "name": "Rain boots",
     "price": "$40.99",
@@ -415,10 +451,11 @@
     "brand": "Adidas",
     "description": "Seitan 8-bit +1 pour-over quinoa. Ramps pop-up artisan cray cred pitchfork keffiyeh actually.",
     "size": 43,
-    "color": "sangria"
+    "type": "shoe",
+    "color": "sangria",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 39,
     "name": "Poster - Inglourious Basterds",
     "price": "$15.99",
@@ -426,10 +463,11 @@
     "brand": "AllPosters",
     "description": "Frankly, my dear, I don’t give a damn.",
     "size": "A0",
-    "color": "azure"
+    "type": "poster",
+    "color": "azure",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 40,
     "name": "Poster - The Princess Bride",
     "price": "$18.99",
@@ -437,10 +475,11 @@
     "brand": "AllPosters",
     "description": "You talking to me?",
     "size": "A2",
-    "color": "fuchsia"
+    "type": "poster",
+    "color": "fuchsia",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 41,
     "name": "Poster - Beauty and the Beast",
     "price": "$9.99",
@@ -448,10 +487,11 @@
     "brand": "AllPosters",
     "description": "What we've got here is failure to communicate.",
     "size": "A0",
-    "color": "violet"
+    "type": "poster",
+    "color": "violet",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 42,
     "name": "Poster - The Departed",
     "price": "$16.99",
@@ -459,10 +499,11 @@
     "brand": "AllPosters",
     "description": "I love the smell of napalm in the morning.",
     "size": "A1",
-    "color": "amethyst"
+    "type": "poster",
+    "color": "amethyst",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 43,
     "name": "Poster - The Godfather",
     "price": "$14.99",
@@ -470,10 +511,11 @@
     "brand": "AllPosters",
     "description": "All right, Mr. DeMille, I'm ready for my closeup.",
     "size": "A2",
-    "color": "salmon"
+    "type": "poster",
+    "color": "salmon",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 44,
     "name": "Poster - The Big Lebowski",
     "price": "$14.99",
@@ -481,10 +523,11 @@
     "brand": "AllPosters",
     "description": "Toto, I've got a feeling we're not in Kansas anymore.",
     "size": "A0",
-    "color": "sky"
+    "type": "poster",
+    "color": "sky",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 45,
     "name": "Poster - Cinema Paradiso",
     "price": "$9.99",
@@ -492,10 +535,11 @@
     "brand": "AllPosters",
     "description": "Go ahead, make my day.",
     "size": "A2",
-    "color": "viridian"
+    "type": "poster",
+    "color": "viridian",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 46,
     "name": "Poster - The Green Mile",
     "price": "$19.99",
@@ -503,10 +547,11 @@
     "brand": "AllPosters",
     "description": "Greetings, programs!",
     "size": "A2",
-    "color": "viridian"
+    "type": "poster",
+    "color": "viridian",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 47,
     "name": "Poster - Platoon",
     "price": "$23.99",
@@ -514,10 +559,11 @@
     "brand": "AllPosters",
     "description": "What we've got here is failure to communicate.",
     "size": "A1",
-    "color": "amaranth"
+    "type": "poster",
+    "color": "amaranth",
+    "storage": ""
   },
   {
-    "type": "poster",
     "id": 48,
     "name": "Poster - The Good, the Bad and the Ugly",
     "price": "$13.99",
@@ -525,17 +571,68 @@
     "brand": "AllPosters",
     "description": "Here's looking at you, kid.",
     "size": "A2",
-    "color": "taupe"
+    "type": "poster",
+    "color": "taupe",
+    "storage": ""
   },
   {
-    "type": "shoe",
-    "id": 1664453309378,
-    "name": "Chaussure",
-    "price": "$3",
-    "quantity": 4,
-    "brand": "THP",
-    "description": "Des chaussures qui marchent",
-    "size": 78,
-    "color": "blue"
+    "id": 49,
+    "name": "Aerodynamic Cotton Hard Drive",
+    "price": "$110.99",
+    "quantity": 23,
+    "brand": "Seagate",
+    "description": "Navigating the protocol won't do anything, we need to index the wireless jbod sensor!",
+    "size": 2.5,
+    "type": "hard drive",
+    "color": "apricot",
+    "storage": "1TB"
+  },
+  {
+    "id": 50,
+    "name": "Fantastic Wool Hard Drive",
+    "price": "$110.99",
+    "quantity": 14,
+    "brand": "Apple",
+    "description": "Compressing the firewall won't do anything, we need to connect the bluetooth http sensor!",
+    "size": 3.5,
+    "type": "hard drive",
+    "color": "cerulean",
+    "storage": "1TB"
+  },
+  {
+    "id": 51,
+    "name": "Heavy Duty Linen Hard Drive",
+    "price": "$117.99",
+    "quantity": 19,
+    "brand": "Western Digital",
+    "description": "You can't calculate the sensor without compressing the neural AI matrix!",
+    "size": 3.5,
+    "type": "hard drive",
+    "color": "silver",
+    "storage": "2TB"
+  },
+  {
+    "id": 52,
+    "name": "Lightweight Bronze Hard Drive",
+    "price": "$108.99",
+    "quantity": 22,
+    "brand": "Samsung",
+    "description": "Try to input the SMS hard drive, maybe it will connect the solid state alarm!",
+    "size": 2.5,
+    "type": "hard drive",
+    "color": "azure",
+    "storage": "4TB"
+  },
+  {
+    "id": 53,
+    "name": "Aerodynamic Plastic Hard Drive",
+    "price": "$114.99",
+    "quantity": 26,
+    "brand": "Apple",
+    "description": "If we program the microchip, we can get to the SQL bandwidth through the online RSS pixel!",
+    "size": 2.5,
+    "type": "hard drive",
+    "color": "plum",
+    "storage": "2TB"
   }
 ]
